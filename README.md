@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Augusto Melillo
+- 👋 Hi, I’m Augusto Melillo, 18 years old and mostly a backend junior dev
 - 👀 I’m interested in Sports (mostly racing, NFL and football), music and languages
-- 🌱 I’m currently learning Python, C# and MySQL..
+- 🧠 Knowledge in PHP, HTML, CSS, Python, flask, C# and MySQL
 - 📫 How to reach me: WhatsApp +55 (31) 98370-7662, instagram (@augusto.melillo.f) and linkedin (Augusto Melillo de Figueiredo)
 
